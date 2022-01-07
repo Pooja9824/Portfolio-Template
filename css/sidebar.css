@@ -1,6 +1,6 @@
 .sidebar {
   position: absolute;
-  background: lightgray;
+  background: #012641;
   font-family: "Josefin Sans", sans-serif;
   height: 100vh;
   transition: transform 0.3s ease-in;
@@ -12,13 +12,13 @@
 
 .sidebar nav li {
   list-style: none;
-  font-size: 30px;
+  font-size: 28px;
   padding: 35px 0px;
 }
 
 .sidebar nav li a {
   text-decoration: none;
-  color: black;
+  color: rgb(230, 230, 230);
 }
 
 .sidebar-hide {
